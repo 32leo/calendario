@@ -42,7 +42,7 @@ cada um pode fazer ate 5 entragas por dia você devera escoler a cor e cada cor 
  >* backgroundColor 
  >* color 
 
- ![](js.png)
+ ![](js2.png)
 
  ## css
  tendo usado css para estilisar mais o site.
